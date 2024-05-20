@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OiJdZPO9QOJtku56TJW+ONOpKQJRujXFpdFrkxTNZleVHJZRoTLgjCb49nqpFkyFM0m/9Cpe9YnJTbClbJB3mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Faisa\\source\\repos\\Zelda\\Zelda\\Zelda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faisa\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\Faisa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Faisa\\.nuget\\packages\\tiledsharp\\1.0.1\\tiledsharp.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
