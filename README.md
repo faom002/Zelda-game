@@ -1,7 +1,7 @@
 # Zelda Project for 3-IMI class
 
 # Progress
-![alt text](https://github.com/faom002/Calculator-APP-WPF/blob/main/Capture.PNG)
+![alt text](https://github.com/faom002/Zelda-game/blob/main/zelda-game.PNG)
 
 ongoing! 
 
