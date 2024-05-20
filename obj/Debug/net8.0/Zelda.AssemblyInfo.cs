@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zelda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caacdd52d90e7eb2e2fea51a96bfb16b57e863ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zelda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zelda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

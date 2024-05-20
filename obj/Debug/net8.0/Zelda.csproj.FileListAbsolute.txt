@@ -21,3 +21,4 @@ C:\Users\Faisa\source\repos\Zelda\Zelda\bin\Debug\net8.0\runtimes\win-x86\native
 C:\Users\Faisa\source\repos\Zelda\Zelda\obj\Debug\net8.0\Zelda.csproj.AssemblyReference.cache
 C:\Users\Faisa\source\repos\Zelda\Zelda\obj\Debug\net8.0\Zelda.csproj.Up2Date
 C:\Users\Faisa\source\repos\Zelda\Zelda\bin\Debug\net8.0\TiledSharp.dll
+C:\Users\Faisa\source\repos\Zelda\Zelda\obj\Debug\net8.0\Zelda.sourcelink.json

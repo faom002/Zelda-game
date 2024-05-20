@@ -59,16 +59,12 @@ namespace Game
             Collision collision = new Collision();
            moveAnimation();
 
-            // Define the source rectangle from the sprite sheet.
 
-            // Define the position to draw the sprite on the screen.
              position = new Vector2(500 / 2 + positionNpcX, 380 / 2 + positionNpcY);
 
 
             Raylib.DrawRectangleLinesEx(getNpcsRec(), 2, Color.Red);
 
-
-            // Draw the part of the texture defined by sourceRectangle at the position on the screen.
             Raylib.DrawTextureRec(character, npcGoron(), position, Color.White);
 
         }
